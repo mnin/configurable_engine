@@ -23,6 +23,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
   spec.summary = 'Database-backed configuration for Rails 7, with defaults from config file.'
 
-  spec.add_dependency 'rails', '>=7.0.0', '<8.0.0'
+  spec.add_dependency 'rails', '>=7.0.0', '<9.0.0'
   spec.metadata['rubygems_mfa_required'] = 'true'
 end
